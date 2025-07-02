@@ -56,3 +56,10 @@ This project uses the following technologies:
 - Researchers: Instantly query legal frameworks in AI governance
 - MNCs: Ensure global compliance across regional offices
 
+## Conclusion:
+The AI Compliance Chatbot is a practical and impactful solution for navigating the complex landscape of AI regulations across countries. By combining the power of LLMs, semantic search, and document intelligence, this chatbot enables companies, startups, and professionals to ask plain-language questions and get accurate, sourced answers from official AI policy documents. It significantly reduces manual effort, legal consultation time, and the risk of regulatory non-compliance — making it a valuable tool for any organization building or using AI responsibly.
+
+This project also demonstrates my ability to:
+- Build full-stack AI apps using modern tools like LangChain, Hugging Face, and Streamlit
+- Apply RAG-based architectures to real-world business problems
+- Create user-focused solutions with clean UI and multi-country flexibility
