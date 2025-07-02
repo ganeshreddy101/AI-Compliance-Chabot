@@ -41,6 +41,9 @@ Sentence Transformers	          Embeddings: all-MiniLM-L6-v2
 PyPDFLoader	                    PDF parsing
 
 
+![image alt](https://github.com/ganeshreddy101/AI-Compliance-Chabot/blob/95838eab7d73d35b1230a851ae2466ba55f23634/chatbot%20file%20upload.png)
+
+
 Example Questions to Ask:
 
 “What are the penalties under the EU AI Act?”
