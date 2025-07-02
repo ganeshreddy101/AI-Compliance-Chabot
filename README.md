@@ -14,7 +14,7 @@ Features:
 
 ~ Ask questions in plain English (e.g., "What are the penalties for misuse of AI in the EU?")
 
-~ Uses LangChain + FAISS for document retrieval
+~ Uses LangChain + FAISS for document retrievAL
 
 ~ Displays the exact source paragraph from the document
 
